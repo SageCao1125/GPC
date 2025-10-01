@@ -43,7 +43,9 @@
 
 
 <div align="center">
-  <img src="pipeline.png" alt="dp3" width="90%">
+  <br>
+  <img src="pipeline.png" alt="dp3" width="99%">
+  <br>
 </div>
 
 We propose General Policy Composition (GPC), a training-free method that enhances performance by combining the distributional scores of multiple pre-trained policies via a convex combination and test-time search. GPC is versatile, allowing for the plug-and-play composition of heterogeneous policies, including VA and VLA models, as well as those based on diffusion or flow-matching, irrespective of their input visual modalities.
