@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href=''>
-    <img src='https://img.shields.io/badge/Arxiv-Link-red?style=flat&logo=arXiv&logoColor=red' alt='Paper PDF'>
+    <img src='https://sagecao1125.github.io/GPC-Site/static/files/GPC_paper.pdf' alt='Paper PDF'>
   </a>
   <a href='https://github.com/SageCao1125/GPC-Site/GPC_paper.pdf' style='padding-left: 0.5rem;'>
     <img src='https://img.shields.io/badge/Paper-PDF-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Paper'>
   </a>
-  <a href='https://github.com/SageCao1125/GPC-Site' style='padding-left: 0.5rem;'>
+  <a href='https://sagecao1125.github.io/GPC-Site/' style='padding-left: 0.5rem;'>
     <img src='https://img.shields.io/badge/Project-Page-green.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+' alt='Project Page'>
   </a>
 </p>
