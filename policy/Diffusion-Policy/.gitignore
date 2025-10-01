@@ -1,0 +1,4 @@
+data/*
+checkpoints/*
+eval_depth.sh
+train_depth.sh
