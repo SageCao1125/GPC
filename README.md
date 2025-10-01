@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href='https://sagecao1125.github.io/GPC-Site/static/files/GPC_paper.pdf'>
+  <a href='https://github.com/SageCao1125/GPC'>
     <img src='https://img.shields.io/badge/Arxiv-Link-red?style=flat&logo=arXiv&logoColor=red' alt='Paper PDF'>
   </a>
-  <a href='https://github.com/SageCao1125/GPC-Site/GPC_paper.pdf' style='padding-left: 0.5rem;'>
+  <a href='https://sagecao1125.github.io/GPC-Site/static/files/GPC_paper.pdf' style='padding-left: 0.5rem;'>
     <img src='https://img.shields.io/badge/Paper-PDF-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Paper'>
   </a>
   <a href='https://sagecao1125.github.io/GPC-Site/' style='padding-left: 0.5rem;'>
