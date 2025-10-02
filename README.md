@@ -125,7 +125,13 @@ Our code is generally built upon: [RoboTwin](https://github.com/TianxingChen/Rob
 
 # 👍 Citation
 ```
-TBD
+@article{cao2025gpc,
+      title={Compose Your Policies! Improving Diffusion-based or Flow-based Robot Policies via Test-time Distribution-level Composition}, 
+      author={Jiahang Cao and Yize Huang and Hanzhong Guo and Rui Zhang and Mu Nan and Weijian Mai and Jiaxu Wang and Hao Cheng and Jingkai Sun and Gang Han and Wen Zhao and Qiang Zhang and Yijie Guo and Qihao Zheng and Chunfeng Song and Xiao Li and Ping Luo and Andrew F. Luo},
+      journal={arXiv preprint arXiv:2510.01068},
+      year={2025},
+      url={https://arxiv.org/abs/2510.01068}, 
+}
 ```
 
 # 🏷️ License
