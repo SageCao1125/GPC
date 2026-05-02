@@ -1,0 +1,20 @@
+policy_name: MCDP3_RDT
+task_name: null
+task_config: null
+instruction_type: unseen
+# Env and embodiment match eval_policy.py; still read from task_config
+
+rdt_ckpt_setting: demo_clean
+rdt_expert_data_num: 50
+rdt_checkpoint_num: 5000
+rdt_seed: 0
+rdt_step: 32
+
+# DP3-only
+dp3_ckpt_setting: demo_clean
+dp3_expert_data_num: 50
+dp3_checkpoint_num: 3000
+dp3_seed: 0
+dp3_use_rgb: false
+
+

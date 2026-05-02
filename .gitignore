@@ -1,17 +1,65 @@
-aloha_maniskill_sim/
-models/
-data/
+# Python
 __pycache__/
-policy/3D-Diffusion-Policy/3D-Diffusion-Policy/data/
-policy/3D-Diffusion-Policy/3D-Diffusion-Policy/checkpoints/
-result/
-third_party/
-result_dp3/
-task_config/seeds/*.txt
-run_all_task.sh
-task_config/*
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Large generated assets and experiment outputs
+/models/
+/data/
+/result/
+/result_dp3/
+/eval_result/
+/eval_video/
+/visualization/
+/logs/
+/robotwin1/models/
+/robotwin1/data/
+/robotwin1/result/
+/robotwin1/result_dp3/
+/robotwin1/eval_result/
+/robotwin1/eval_video/
+/robotwin1/visualization/
+/robotwin1/logs/
+/robotwin2/models/
+/robotwin2/data/
+/robotwin2/result/
+/robotwin2/result_dp3/
+/robotwin2/eval_result/
+/robotwin2/eval_video/
+/robotwin2/visualization/
+/robotwin2/logs/
 *.zip
 
-# Code Generation
-robotwin.py
-gpt_api/*
+# RoboTwin generated folders
+/aloha_maniskill_sim/
+/third_party/
+/task_config/
+/robotwin1/aloha_maniskill_sim/
+/robotwin1/third_party/
+/robotwin1/task_config/
+/robotwin2/aloha_maniskill_sim/
+/robotwin2/third_party/
+/robotwin2/task_config/
+/assets/*
+!/assets/_download.py
+!/assets/files
+
+# Policy checkpoints and weights
+**/checkpoints/
+/policy/weights/
+/robotwin1/policy/weights/
+/robotwin2/policy/weights/
+
+# Local editor and config files
+.vscode/
+config.json
+*.local
