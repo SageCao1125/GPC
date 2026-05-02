@@ -24,6 +24,7 @@ We propose General Policy Composition (GPC), a training-free method that enhance
 
 ## News
 
+* **May 2026:** We update the RoboTwin-2.0 implementation of GPC, which now supports multiple-policy composition and VLA + VA composition.
 * **Jan 2026:** GPC is accepted to **ICLR 2026**.
 
 ## Repository Layout
